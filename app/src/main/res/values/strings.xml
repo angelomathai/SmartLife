@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartLife</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="text_hint">your command will be written here</string>
+    <string name="speak_but_text">Touch and Command</string>
+    <string name="title_activity_bt_devices">BtDevicesActivity</string>
+    <string name="Eslesmis_CihazlarButon">Eşleşmiş Cihazları Göster</string>
+</resources>
